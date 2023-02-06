@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/groovy-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/groovy-json-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/groovy-xml-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/jackson-annotations-2.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/jackson-core-2.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/jackson-coreutils-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/jackson-databind-2.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/joda-time-2.9.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/jopt-simple-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/json-path-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/json-schema-core-1.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/json-schema-validator-2.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/jsr305-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/kotlin-extensions-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/kotlin-stdlib-1.3.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/kotlin-stdlib-common-1.3.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/kotlin-stdlib-jdk7-1.3.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/libphonenumber-8.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/nio-multipart-parser-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/nio-stream-storage-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/reactive-streams-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/reactor-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/rest-assured-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/rhino-1.7.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/scala-library-2.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/scala-support-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/spring-aop-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/spring-aop-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/spring-beans-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/spring-beans-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/spring-commons-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/spring-context-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/spring-context-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/spring-core-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/spring-core-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/spring-expression-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/spring-expression-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/spring-jcl-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/spring-mock-mvc-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/spring-test-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/spring-test-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/spring-web-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/spring-web-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/spring-webflux-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/spring-webmvc-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/spring-web-test-client-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/Combined JARs/xml-path-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/slf4j.api-1.6.1.jar/slf4j.api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/slf4j-simple-1.6.1.jar/slf4j-simple-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/jcommander-1.78.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jajit/OneDrive - VMware, Inc/Baseline/API/JARs/testng-7.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
